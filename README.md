@@ -256,4 +256,17 @@ By following this user flow, the dashboard screen provides a structured and intu
 - [ ] Collaborative Tools
 - [ ] Time Management
 - [ ] Personalized Study Plans
+- [ ] Streaks for Goals
+  - **Description:** Introduce a streak system to encourage students to set and achieve study goals consistently.
+  - **Implementation:**
+    - Set personalized study goals (e.g., chapters read, problems solved) with a daily target.
+    - Display a visible streak counter indicating consecutive days of goal achievement.
+    - Reward users for reaching streak milestones, reinforcing positive study habits.
+- [ ]  Passive-Aggressive Humor Reminders
+  - **Description:** Infuse humor into study reminders to make the learning experience lighthearted and engaging.
+  - **Implementation:**
+    - Craft playful and motivational messages in reminder notifications.
+    - Consider introducing a friendly mascot or avatar to deliver reminders with a touch of humor.
+    - Experiment with creative and humorous content to encourage users to return to their study routine.
+
 
